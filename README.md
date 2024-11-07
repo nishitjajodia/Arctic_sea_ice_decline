@@ -1,2 +1,3 @@
-# UoR_Nishit
-This repository contains work that I did at the University of Reading during my MSc (2023-24)
+# Why is Arctic Sea-Ice Declining
+This repository contains the work done as part of my MSc dissertation at the University of Reading.
+
